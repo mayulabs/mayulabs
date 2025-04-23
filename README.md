@@ -26,15 +26,11 @@ Here are some ideas to get you started:
 
 - 📝 Comecei a escrever artigos no [https://dev.to/mayulabs](https://dev.to/mayulabs)
 
-- 📫 Você pode me contatar pelo: **@mayulabs no Instagram**
+- 📫 Você pode me contatar pelo: contato.mayulabs@gmail.com
 
 - 📄 Saiba mais sobre minhas experiências [https://www.linkedin.com/in/mayumi-shingaki/](https://www.linkedin.com/in/mayumi-shingaki/)
 
 - ⚡ Fun fact: **Sou botafoguense e mesa tenista nas horas vagas :)**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
